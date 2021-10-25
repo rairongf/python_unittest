@@ -32,6 +32,8 @@ def case3():
 def case4():
   arg1,arg2 = inputs()
   resultado = calculadora.dividir(argumento1=arg1, argumento2=arg2)
+  if resultado == None:
+    return
   print(" Resultado:")
   print(f" {arg1} / {arg2} = {resultado}")
 
