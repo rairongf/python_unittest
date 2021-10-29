@@ -7,6 +7,12 @@ Instituto Nacional de Telecomunicações - INATEL
 
 O python_unittest é uma calculadora basica criada com o intuito de realizar testes de unidade com o Python Unittest
 
+### Funções implementadas na calculadora
+- :heavy_plus_sign: Soma
+- :heavy_minus_sign: Subtração
+- :heavy_multiplication_x: Multiplicação
+- :heavy_division_sign: Divisão
+
 <br/>
 
 ---
@@ -81,11 +87,19 @@ Todas as fontes utilizadas e mais informações se encontram nos links abaixo:
 
 ---
 
-## :point_right: Clonando repositório
+## :point_right: Como Executar
 
-Para clonar o repositório em algum lugar na sua máquina, basta utilizar o comando abaixo:
+- Para clonar o repositório em algum lugar na sua máquina, basta utilizar o comando abaixo:
 ```bash
 $ git clone https://github.com/rairongf/python_unittest.git
+```
+- Para iniciar a calculadora execute o comando abaixo:
+```
+python src/main.py
+```
+- Para realizar os teste utilize o comando abaixo:
+```
+python src/testCalculadora.py
 ```
 
 ## Colaboradores
