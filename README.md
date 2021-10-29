@@ -105,5 +105,4 @@ python src/testCalculadora.py
 ## Colaboradores
 - Rafaela Ferraz [@rafaferraz](https://github.com/rafaferraz)
 - Leonardo de Moura Brandão [@odrah](https://github.com/odrah)
-- Henrique Mateus Alves [@HenriqueMAlves](https://github.com/HenriqueMAlves)
 - Rairon Ferreira [@rairongf](https://github.com/rairongf)
